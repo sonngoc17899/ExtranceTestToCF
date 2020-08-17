@@ -1,0 +1,19 @@
+.title ul li{
+    text-decoration: none;
+    display: inline-block;
+}
+.addBook{
+    margin-left: 30px;
+    font-size: 24px;
+}
+.addBook:hover{
+    color: blue;
+    cursor: pointer;
+}
+.container{
+    padding-left: 10%;
+}
+.title{
+    margin-bottom: 20px;
+    padding-left: 10px;
+}

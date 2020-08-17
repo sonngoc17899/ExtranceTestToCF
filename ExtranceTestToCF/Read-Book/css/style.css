@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* set width từ border vào */
+}
+.erros{
+    color: red;
+}
+.input-wrapper input{
+    width: 50%;
+    padding: 10px 13px;
+    height: 40px;
+    border: 1px solid #bdbdbd;
+    border-radius: 5px;
+}
+.btn{
+    background-color: #000;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 8px 18px;
+    border: 1px solid #ffffff;
+}
+h2{
+    color: #f15e2c;
+}
